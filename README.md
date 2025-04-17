@@ -1,4 +1,4 @@
-# Machine Learning Project
+# Machine Learning
 
 ### Environment Setup
 ```bash
